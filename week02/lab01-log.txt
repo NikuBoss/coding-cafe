@@ -1,0 +1,190 @@
+   56  pwd
+   57  ls
+   58  ls -a
+   59  ls -l
+   60  ls -plaksha
+   61  cd -plaksha
+   62  cd -Plaksha
+   63  pwd
+   64  ls
+   65  ls -a
+   66  ls -;
+   67  ls -l
+   68  ls
+   69  help
+   70  ls help
+   71  ls -help
+   72  ls -l
+   73  ls -a
+   74  mkdir
+   75  cd
+   76  touch
+   77  mkdir -pv -m Plaksha
+   78  mkdir plaksha
+   79  mkdir plaksha coding cafe 
+   80  mkdir plaksha/wweko2
+   81  mkdir cd plaksha
+   82  mkdir cd
+   83  pwd
+   84  ls
+   85  ls
+   86  ls -a
+   87  ls -l
+   88  cd
+   89  cd -plaksha
+   90  cd plaksha
+   91  cd freshmore
+   92  cd coding cafe
+   93  mkdir coding-cafe
+   94  cd coding-cafe
+   95  mkdir week01
+   96  mkdir week02
+   97  cd week02
+   98  touch notes.md
+   99  ls
+  100  cd coding-cafe
+  101  cd
+  102  cd coding-cafe
+  103  cd plaksha
+  104  cd freshmore
+  105  cd coding-cafe
+  106  touch README.md
+  107  ls coding-cafe/weeko2
+  108  cd
+  109  ls coding-cafeweek02
+  110  ls coding-cafe/week02
+  111  ls coding cafe
+  112  ls coding-cafe
+  113  cd freshmore
+  114  cd plalsha
+  115  cd plaksha
+  116  cd freshmore
+  117  cd coding-cafe
+  118  cd ..
+  119  cd ...
+  120  cd .
+  121  cd -
+  122  cd
+  123  ls coding-cafe/week02
+  124  ls
+  125  cd plaksha
+  126  ls coding-cafe/week02
+  127  ls
+  128  cd freshmore
+  129  ls
+  130  ls coding-cafe/week02
+  131  history
+  132  history all
+  133  history
+  134  cd
+  135  cd
+  136  c
+  137  cd
+  138  cd
+  139  cd
+  140  cd
+  141  cd
+  142  cd
+  143  c
+  144  dc
+  145  history
+  146  pwd
+  147  ls
+  148  ls -a
+  149  ls -l
+  150  cd plaksha
+  151  cd freshmore
+  152  mkdir coding-cafe
+  153  cd coding-cafe
+  154  mkdir week01
+  155  mkdir week02
+  156  cd week02
+  157  touch notes.md
+  158  history
+  159  ls -R coding-cafe
+  160  cd ..
+  161  cd ..
+  162  ls -R coding-cafe
+  163  cd ..
+  164  ls -R coding-cafe
+  165  cd freshmore
+  166  cd -
+  167  cd -
+  168  cd coding-cafe
+  169  cp README.md README-backup.md
+  170  mv README-backup.md week01/
+  171  cd week01
+  172  mv README-backup.md old-readme.md
+  173  ls
+  174  rm old-readme.md
+  175  history
+  176  echo $PATH
+  177  which python
+  178  which pip
+  179  which ls
+  180  cd
+  181  echo $path
+  182  pyton 3
+  183  which pyton 3
+  184  which pyton3
+  185  echo $PATH
+  186  which pyton3
+  187  cd ~/coding-cafe
+  188  cd ~/coding-cafe
+  189  cd plaksha
+  190  cd ~/coding-cafe
+  191  history
+  192  ls
+  193  cd
+  194  cd -
+  195  ls
+  196  cd freshmore
+  197  ls
+  198  cd ~/coding-cafe
+  199  cd coding cafe
+  200  cd coding-cafe
+  201  python 3 -m venv .venv
+  202  python 3 -m venv.venv
+  203  python3 -m venv.venv
+  204  python 3 -m venv .venv
+  205  python3 -m venv .venv
+  206  HISTORY
+  207  history
+  208  source .venv/bin/activate
+  209  which python3
+  210  pip list
+  211  pip install requests
+  212  pip list
+  213  deactivate
+  214  which python3
+  215  man ls
+  216  ls -h
+  217  ls
+  218  man man
+  219  cd
+  220  ls
+  221  ls -h
+  222  cd downloads
+  223  cd desktop
+  224  history
+  225  ls
+  226  cd
+  227  cd desktop
+  228  cd
+  229  cd documents
+  230  cd
+  231  cd cod
+  232  cd cod
+  233  cd cod
+  234  history
+  235  cd plaksha
+  236  cd freshmore
+  237  cd coding-cafe
+  238  python3
+  239  history 1
+  240  history 50>
+  241  history >50
+  242  history 52>
+  243  python3
+  244  python3
+  245  history > week02/lab01-log.txt
